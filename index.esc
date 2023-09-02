@@ -1,0 +1,9 @@
+// If statement
+VARIABLE compareTest = 10;
+
+// TODO: allow for variable use in if statement expressions
+(compareTest >= 9) ? STARTIF
+  VARIABLE testVar = "Hello!";
+ENDIF
+
+print(testVar);
