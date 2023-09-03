@@ -10,7 +10,7 @@ _You must have python3 installed_
 
 To install easyScript using the **bash** shell, run the following command in your terminal:
 ```bash
-curl -sSL https://raw.githubusercontent.com/github.com/hassan12ammar/easyScript/tree/bash-script/bash_script.sh | bash
+curl -sSL https://raw.githubusercontent.com/hassan12ammar/easyScript/bash-script/installation/bash_script.sh | bash
 ```
 
 ### Zsh (Mac)
@@ -24,5 +24,5 @@ curl -sSL https://raw.githubusercontent.com/KirillMcQ/easyScript/master/installa
 
 Once easyScript is installed, you can start using it to learn the basics of coding. you can use the provided example:
 ```
-examples/example.esc
+easyScript examples/example.esc
 ```
