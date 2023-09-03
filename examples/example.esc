@@ -1,0 +1,18 @@
+// All lines must end with semi-colon
+// Creating a simple variable
+VARIABLE simpleVar = 16;
+
+// Print the variable
+print(simpleVar);
+
+// Creating a variable with user input
+// readIn() automatically detects data type
+VARIABLE userName = readIn("Enter your name: ");
+
+// Print the user's name
+print(userName);
+
+// Simple if statement
+(simpleVar > 10) ? STARTIF
+  print("16 is greater than 10!");
+ENDIF
