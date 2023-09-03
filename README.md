@@ -6,12 +6,23 @@ A simple beginner programming language meant to teach the basics of coding.
 
 _You must have python3 installed_
 
-### Mac
+### Bash (Linux)
 
-Currently, only macOS is supported fir the quick install as that is what I am developing on. You can manually download the files here and add them to the PATH if you are on Windows or Linux.
+To install easyScript using the **bash** shell, run the following command in your terminal:
+```bash
+curl -sSL https://raw.githubusercontent.com/github.com/hassan12ammar/easyScript/tree/bash-script/bash_script.sh | bash
+```
 
-Copy this command and paste it in your terminal to install easyScript.
+### Zsh (Mac)
 
+To install easyScript using the **zsh** shell, run the following command in your terminal:
 ```bash
 curl -sSL https://raw.githubusercontent.com/KirillMcQ/easyScript/master/installation/install_script.sh | bash
+```
+
+## Usage
+
+Once easyScript is installed, you can start using it to learn the basics of coding. you can use the provided example:
+```
+examples/example.esc
 ```
